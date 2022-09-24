@@ -1,0 +1,104 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm a M.Sc student of computer science at the University of Insubria, Varese. During my Bachelor's degree I fell in love with web and mobile development, and my efforts in this field were rewarded by finding a part-time job as a full-stack Agile web developer that I carried on during my studies. On my Master's degree I deepened topics about machine learning, privacy, cryptography and blockchain, with which I am doing my thesis.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Main Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Tracenet",
+        "startDate": "2022",
+        "description": "An Hyperledger Fabric blockchain network that I built from scratch to learn blockchain basics. The programming skills required were golang for the smart contract and bash scripting to interact with the network",
+        "images": [
+          "images/portfolio/tracenet/p1.jpg"
+        ],
+        "url": "https://github.com/11nonali23/tracenet",
+        "technologies": [
+          {
+            "class": "devicon-go-original-wordmark",
+            "name": "Golang"
+          },
+          {
+            "class": "devicon-bash-plain",
+            "name": "Bash"
+          },
+          {
+            "name": "Hyperledger Fabric"
+          }
+        ]
+      },
+      {
+        "title": "Oak's Desk",
+        "startDate": "2021",
+        "description": "This project was thought to provide competitive pokemon players an API to find insightful information that other popular websites don't provide.",
+        "images": [
+          "images/portfolio/oaksdesk/p1.png"
+        ],
+        "url": "https://github.com/11nonali23/oaks-desk",
+        "technologies": [
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Workout Clock",
+        "startDate": "2020",
+        "description": "This application was designed during the Covid19 pandemic. I wanted to encourage users to train themselves and develop healthy habits. The application features a highly customizable HIIT timer and a chronometer with charts visualization to track progress",
+        "images": [
+          "images/portfolio/awclock/p1.png"
+        ],
+        "url": "https://github.com/11nonali23/Advanced-Workout-Clock",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-kotlin-plain",
+            "name": "Kotlin"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Planeat.eco",
+        "title": "Agile Full Stack Web Developer",
+        "years": "Feb 2021 - Feb 2022",
+        "mainTech": [
+          "Django"
+        ],
+        "technologies": [
+          "Django",
+          "GraphQL",
+          "AWS",
+          "Vue",
+          "SCRUM"
+        ]
+      },
+      {
+        "company": "Planeat.eco",
+        "title": "Software Developer Intern",
+        "years": "Aug 2020 - Oct 2020",
+        "mainTech": [
+          "Python 3.8"
+        ],
+        "technologies": [
+          "Sklearn",
+          "Django",
+          "GraphQL"
+        ]
+      }
+    ]
+  }

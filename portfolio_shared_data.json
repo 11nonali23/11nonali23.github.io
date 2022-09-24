@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "Andrea Nonali",
+      "titles": [ "M.Sc Computer Science", "Backend Developer", "Blockchain Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/11nonali23",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/andrea-nonali/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "Go",
+          "class": "devicon-go-plain",
+          "level": "95"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "80"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Bash",
+          "class": "devicon-bash-plain",
+          "level": "70"
+        },
+        {
+          "name": "Git/CI-CD",
+          "class": "devicon-git-plain",
+          "level": "70"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "75"
+        },
+        {
+          "name": "GraphQL",
+          "class": "devicon-graphql-plain",
+          "level": "85"
+        },
+        {
+          "name": "Postgresql",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
