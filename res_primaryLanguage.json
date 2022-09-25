@@ -15,7 +15,7 @@
         "startDate": "2022",
         "description": "An Hyperledger Fabric blockchain network that I built from scratch to learn blockchain basics. The programming skills required were golang for the smart contract and bash scripting to interact with the network",
         "images": [
-          "images/portfolio/tracenet/p1.jpg"
+          "portfolio/images/portfolio/tracenet/p1.jpg"
         ],
         "url": "https://github.com/11nonali23/tracenet",
         "technologies": [
@@ -37,7 +37,7 @@
         "startDate": "2021",
         "description": "This project was thought to provide competitive pokemon players an API to find insightful information that other popular websites don't provide.",
         "images": [
-          "images/portfolio/oaksdesk/p1.png"
+          "portfolio/images/portfolio/oaksdesk/p1.png"
         ],
         "url": "https://github.com/11nonali23/oaks-desk",
         "technologies": [
@@ -56,8 +56,8 @@
         "startDate": "2020",
         "description": "This application was designed during the Covid19 pandemic. I wanted to encourage users to train themselves and develop healthy habits. The application features a highly customizable HIIT timer and a chronometer with charts visualization to track progress",
         "images": [
-          "images/portfolio/awclock/p1.png",
-          "images/portfolio/awclock/p2.png"
+          "portfolio/images/portfolio/awclock/p1.png",
+          "portfolio/images/portfolio/awclock/p2.png"
         ],
         "url": "https://github.com/11nonali23/Advanced-Workout-Clock",
         "technologies": [
